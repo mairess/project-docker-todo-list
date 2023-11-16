@@ -6,7 +6,10 @@ services:
       - 3001:3001
     # parâmetros
     # ...
-  app_B:
+  frontend:
+   build: front-end/
+   ports:
+      - 3000:3000
     # ...
     # parâmetros
     # ...
