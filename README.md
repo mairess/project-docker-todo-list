@@ -16,7 +16,7 @@ Clone o repositório:
 git clone git@github.com:mairess/project-docker-todo-list.git
 ```
 
-O `docker compose` está em `sd-034-project-docker-todo-list/docker` é preciso entrar nesse diretório:
+O `docker compose` está em `project-docker-todo-list/docker` é preciso entrar nesse diretório:
 
 ```JSON
 cd docker
