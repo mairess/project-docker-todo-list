@@ -10,6 +10,8 @@ O objetivo desse projeto é realizar a `conteinerização` de uma aplicação fu
 
 > ⚠️ É preciso ter o [Docker](https://www.docker.com/get-started/) instalado em sua máquina.
 
+> ⚠️ É preciso ter o [Node](https://nodejs.org/en) instalado em sua máquina.
+
 Clone o repositório:
 
 ```JSON
