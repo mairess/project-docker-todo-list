@@ -14,19 +14,19 @@ O objetivo desse projeto é realizar a `conteinerização` de uma aplicação fu
 
 Clone o repositório:
 
-```JSON
+```SHELL
 git clone git@github.com:mairess/project-docker-todo-list.git
 ```
 
-O `docker compose` está em `project-docker-todo-list/docker` é preciso entrar nesse diretório:
+Acesso o diretório onde se encontra o `docker compose`:
 
-```JSON
+```SHELL
 cd docker
 ```
 
 Suba o container:
 
-```JSON
+```SHELL
 docker compose up -d
 ```
 
